@@ -13,7 +13,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/willywagtail/MRZParser", branch: "temp-add-td1be")
+        .package(url: "https://github.com/willywagtail/MRZParser", branch: "master")
     ],
     targets: [
         .target(

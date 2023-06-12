@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/willywagtail/MRZParser",
       "state" : {
-        "branch" : "temp-add-td1be",
-        "revision" : "e2a76e9fb89e6262276bbfc2a0d5d35ca662370c"
+        "branch" : "master",
+        "revision" : "a88892b23abf6952ed11ff094142b8c00ecc8494"
       }
     }
   ],
